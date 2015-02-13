@@ -18,6 +18,13 @@ if ($db->connect_error) {
 //mysqli_selsect_db("carringl-db");
 $sql = $db->query("SELECT name, category, length, rented FROM videoCheckout");
 echo "<table>";
+echo "<thead>";
+echo "<tr>";
+echo "<td> name </td>";
+echo "<td> category </td>";
+echo "<td> length </td>";
+echo "<td> rented </td>";
+echo "</tr> </thead>";
 while($row = $sql->fetch_object()){
     echo "<tr>";
     echo "<td> $row->name</td>";
