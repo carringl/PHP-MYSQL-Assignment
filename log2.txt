@@ -1,0 +1,23 @@
+﻿You log goes in this  file.
+
+Start: 9 February 2015 -1530
+End: 9 February 2015 -2200
+Total time – 6:30
+comments- read project, started reading course material
+
+Start: 10 February 2015 -1530
+End: 10 February 2015 -2200
+Total time – 6:30
+comments- worked on project, php seems cool. Put 20 hr limit on this classes hw this week.
+
+Start: 13 February 2015 -1530
+End: 13 February 2015 -2200
+Total time – 6:30
+comments- worked on project, got most of it complete.
+
+Start: 15 February 2015 -530
+End: 15 February 2015 -1700
+Total time – 11:30
+comments- stressed out, worked all day, still cant get this completed. Dont understand the problem.
+
+Final comments- Once again I am putting a time limit on this project. I still dont understand the components to make this run and I am making the conscious decision to learn the material rather than google my way through the code. I honestly think I will learn more this way, even though its not reflected in my grade.
